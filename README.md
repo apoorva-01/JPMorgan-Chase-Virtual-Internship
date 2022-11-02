@@ -25,5 +25,7 @@ This repository contains all the submitted patch files of the various tasks assi
 - Make a contribution to Perspective or other projects backlogs 
 - `Contrubuting to the Open Source Community`
 ---
-#### My Certificate of Completion
-![New](https://user-images.githubusercontent.com/40789486/83999923-5a5ad900-a981-11ea-8b79-1c918da0e279.png)
+#### My Certificate of Completion!
+
+![JPMorgan-Chase-Virtual-Internship_page-0001](https://user-images.githubusercontent.com/76636952/199469545-c3bb4c48-4b3b-40d6-9427-23e6222fed5b.jpg)
+
